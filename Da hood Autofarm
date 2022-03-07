@@ -89,7 +89,7 @@ while shared.MoneyFarm do
                     Character:FindFirstChild("Humanoid").Health = 0
                     return
                 end
-                HumanoidRootPart.CFrame = Target.Head.CFrame * CFrame.new(0, -2.5, 3)
+                HumanoidRootPart.CFrame = Target.Head.CFrame * CFrame.new(0, -1.5, 3)
                 Combat.Parent = Character
                 Combat:Activate()
             end
