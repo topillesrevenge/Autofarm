@@ -11,10 +11,10 @@ end
 local bindableFunction= Instance.new("BindableFunction")
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Script was made by zaddy#1234";
-    Text = "sucky my balls";
+    Title = "1";
+    Text = "1";
     Icon = "";
-    Duration = "1.5";
+    Duration = "0";
 })
 
 
